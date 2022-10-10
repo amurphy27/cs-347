@@ -1,0 +1,19 @@
+Activity Journal
+
+Name:Andrew Murphy
+
+================================================================
+Start
+Estimated Time	4H 0M
+Plan:
+I'm assuming that this will be like the fileIO assignment and will mostly be reading about lstat a lil bit,
+followed by toying around with it to get used to it then using it to fulfill the assignment.
+
+Complete
+Actual Time	3H 0M
+Observations:
+At this point I've noticed that I expect things to take longer than they usually do. As for how it went, well
+it went pretty much the way I expected with the one real obstacle being figuring out that I needed the bitwise
+and operator rather than the normal boolean one.
+
+================================================================

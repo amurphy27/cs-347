@@ -1,0 +1,19 @@
+Activity Journal
+
+Name:Andrew Murphy
+
+================================================================
+Start
+Estimated Time	5H 0M
+Plan:
+Go over the file IO functions that will be used to get a base understanding, then start toying around with them in c
+to get used to them in practice, then implement them so that they work the way I need them to.
+
+Complete
+Actual Time	3H 30M
+Observations:
+The only real obstacles I ran into were figuring out how to look at what was read and how to assign what is written.
+I solved this by looking at some basic examples online and learning that is what the buffer is. After that I just had
+to smooth out a coupe weird bugs I was having.
+
+================================================================

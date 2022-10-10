@@ -1,0 +1,20 @@
+Activity Journal 
+
+Name:Andrew Murphy
+
+================================================================
+Start
+Estimated Time	8H 0M
+Plan:
+(Order of implementation, testing approach, etc.)
+Begin by looking at getchar documentation since I know that it will be important for this assignment.
+Next look into how to use getchar on the text file provided.
+Then its just counting up characters.
+ 
+Complete
+Actual Time	4H 0M
+Observations:
+I was honestly expecting this to take longer after the c review and was expecting iterate a pointer to
+the current character like in the c review. However, getchar made this easy once I learned how it worked
+and remembered that I have to check if the previous charcter was a white space to add a word.
+================================================================

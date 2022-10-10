@@ -1,0 +1,21 @@
+Activity Journal
+
+Name:Andrew Murphy
+
+================================================================
+Start
+Estimated Time	6H 0M
+Plan:
+Read  through the intro pdf, read the read me, go through the given code, look into additional resources if needed and then begin implementing code
+
+Complete
+Actual Time	11H 0M
+Observations:
+This assignment took me a little while to get used to using pointers and such but, the typo with in the main held me back for a good while. After that
+I got things rolling but then ran into the issue of getting all the functions to actually talk to each other properly. Then I began having issues with
+misusing malloc by using it when it wasn't really needed. After sorting that out it took me a second to notice the ascii value i wanted to work with
+was the blue number on the chart not the red one. Then getting the format for writing to the output file was a lil tricky and isn't very clean. Then
+I spent a very long time trying to figure out how to get rid of the extra random characters when the input file is longer like reading.txt. hello.txt
+works perfectly. Yeah I'm kinda running out of time so this may be the best that it gets.
+
+================================================================

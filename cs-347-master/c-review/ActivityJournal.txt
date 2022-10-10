@@ -1,0 +1,20 @@
+Activity Journal
+
+Name:Andrew Murphy
+
+================================================================
+Start
+Estimated Time	8H 0M
+Plan:
+Read through the assignment and look through notes on pointers since it has been a while since I have used c
+Then go through the functions in order
+
+Complete
+Actual Time	9H 30M
+Observations:
+I was very rusty with my knowledge of C, so I looked over some tutorials on pointers and asked my friend in who has already taken this class
+to give me a run down on what * means when it is used in different places. I only did these things after struggling for about 5 hours on the
+second function so I probably should have done these things sooner. I get warnings for comparing a pointer to a integer (NULL) twice in the
+last function but it works and I don't see why I can't see if a pointer is NULL so I'm leaving it as is.
+
+================================================================

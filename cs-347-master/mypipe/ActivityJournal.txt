@@ -1,0 +1,19 @@
+Activity Journal
+
+Name: Andrew Murphy
+
+================================================================
+Start
+Estimated Time	3HH 00MM
+Plan:
+(Order of implementation, testing approach, etc.)
+Just chug along since word was the instructions are pretty straight forward.
+
+Complete
+Actual Time	10HH 00MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+Was not easy, this was in fact the opposite, my assumption is I was just missing something important or didn't know what I was doing
+I also came back and gave it another go right before work
+
+================================================================
